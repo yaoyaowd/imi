@@ -1,0 +1,27 @@
+// python -m grpc_tools.protoc -Ipublic --python_out=public/ --grpc_python_out=public/ public/imi.proto
+//
+// generate gRPC code in Go:
+// protoc -I public public/imi.proto --go_out=plugins=grpc:public
+
+syntax = "proto3";
+
+package imi;
+
+message SearchRequest {
+    string cid = 1;
+}
+
+message SearchDoc {
+    string id = 1;
+    float score = 2;
+    string explain = 3;
+}
+
+message SearchResult {
+    repeated SearchDoc docs = 1;
+    int32 hits = 2;
+}
+
+service IMI {
+    rpc Search (SearchRequest) returns (SearchResult) {}
+}

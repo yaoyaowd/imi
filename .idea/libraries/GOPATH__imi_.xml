@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;imi&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/clroot/go/third_party/src/golang.org" />
+      <root url="file://$USER_HOME$/clroot/go/third_party/src/github.com" />
+      <root url="file://$USER_HOME$/clroot/go/third_party/src/google.golang.org" />
+      <root url="file://$USER_HOME$/clroot/go/wish/src/public" />
+      <root url="file://$USER_HOME$/clroot/go/third_party/src/gopkg.in" />
+      <root url="file://$USER_HOME$/clroot/go/wish/src/trevi" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/clroot/go/third_party/src/golang.org" />
+      <root url="file://$USER_HOME$/clroot/go/third_party/src/github.com" />
+      <root url="file://$USER_HOME$/clroot/go/third_party/src/google.golang.org" />
+      <root url="file://$USER_HOME$/clroot/go/wish/src/public" />
+      <root url="file://$USER_HOME$/clroot/go/third_party/src/gopkg.in" />
+      <root url="file://$USER_HOME$/clroot/go/wish/src/trevi" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
