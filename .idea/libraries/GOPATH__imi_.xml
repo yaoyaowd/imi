@@ -5,6 +5,7 @@
       <root url="file://$USER_HOME$/clroot/go/third_party/src/github.com" />
       <root url="file://$USER_HOME$/clroot/go/third_party/src/google.golang.org" />
       <root url="file://$USER_HOME$/clroot/go/wish/src/public" />
+      <root url="file://$USER_HOME$/clroot/go/wish/src/benu" />
       <root url="file://$USER_HOME$/clroot/go/third_party/src/gopkg.in" />
       <root url="file://$USER_HOME$/clroot/go/wish/src/trevi" />
     </CLASSES>
@@ -13,6 +14,7 @@
       <root url="file://$USER_HOME$/clroot/go/third_party/src/github.com" />
       <root url="file://$USER_HOME$/clroot/go/third_party/src/google.golang.org" />
       <root url="file://$USER_HOME$/clroot/go/wish/src/public" />
+      <root url="file://$USER_HOME$/clroot/go/wish/src/benu" />
       <root url="file://$USER_HOME$/clroot/go/third_party/src/gopkg.in" />
       <root url="file://$USER_HOME$/clroot/go/wish/src/trevi" />
     </SOURCES>
